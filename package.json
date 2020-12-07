@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "detritus-client": "^0.12.0",
+    "detritus-pagination": "github:y21/detritus-pagination#dev",
+    "node-fetch": "^2.6.1"
+  }
+}
